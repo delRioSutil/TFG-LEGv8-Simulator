@@ -9,7 +9,7 @@ import java.util.regex.Pattern;
  * text editor. A list of lexical tokens is returned which can be parsed by the
  * <code>Parser</code> class.
  *
- * @see	Parser
+ * @see	com.legv8.simulator.parser.Parser
  * @author Jonathan Wright, 2016
  * @author Rodrigo Bautista Hernández, 2025
  *
